@@ -1,7 +1,7 @@
 # **E-commerce Sales Analysis**  
 
 ## **Project Overview**  
-This project focuses on **data cleaning, exploratory analysis, and visualization** of an e-commerce sales dataset. The goal is to uncover trends in payment methods, daily sales fluctuations, and other key business metrics.  
+This project focuses on **data cleaning, exploratory analysis, and visualization** of an e-commerce sales dataset. The goal is to uncover trends in payment methods, daily sales fluctuations, and other key business metrics. The EDA report can be found at: https://medium.com/@salmanajmal_4877/exploratory-data-analysis-on-pakistans-largest-e-commerce-dataset-1fad002c49e0
 
 ## **Jupyter Notebook Overview**  
 The Jupyter Notebook performs the following tasks:  
